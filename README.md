@@ -1,4 +1,4 @@
-# portfolio
+# Projects
 
 # Predicting Online Sales with Users' First impression
 
