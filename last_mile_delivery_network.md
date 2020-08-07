@@ -1,6 +1,5 @@
----
-title: Amazon's Last-Mile Delivery Network
----
+# Amazon's Last-Mile Delivery Network
+
 
 <!-- VIDEO ON LOOP: see styles.css for formatting -->
 <div class="video-wrapper">
