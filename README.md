@@ -1,8 +1,7 @@
 # Projects
 Welcome to Jiaying's project page :)
 
-## [Evaluating the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/covariates.ipynb)
-<img src="/viz_diarrhea.png"  width="800" height="550">
+## [Evaluating the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/README.md)
 
 ## [Predicting Online Sales with Users' First impression](https://github.com/JiayingChen0307/ICM2020-Amazon-review-prediction/blob/master/RandomForest.ipynb)
 
