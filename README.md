@@ -12,6 +12,7 @@ Hi, I'm Jiaying Chen. I'm an undergrad student studying Applied Math and Compute
 
 ### Data Visualization
 * [Amazon Delivery Network](https://jiayingchen0307.github.io/last_mile_delivery_network/)
+* [Jiaying's Tableau Gallery](https://public.tableau.com/profile/jiaying.chen#!/)
 
 ### Applied Math Research
 * [Quantifying Voting Islands with Topological Data Analysis(TDA)](https://github.com/JiayingChen0307/tda/blob/master/report_JiayingChen.pdf)
