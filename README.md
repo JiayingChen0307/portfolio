@@ -1,5 +1,5 @@
-## About Jiaying
-Hi, I'm Jiaying Chen. I'm an undergrad student studying Applied Math and Computer Science at College of William & Mary. I'm passionate about data science and I do data analysis and modeling primarily in Python and R. Besides data science, I enjoy photography, cooking, city hikes and watching standup comedies. 
+## About Jiaying (Tina)
+Hi, I'm Jiaying Chen. I go by Tina most of the time. I'm an undergrad student studying Computer Science and Applied Mathematics at College of William & Mary graduating in May 2022. I'm passionate about solving people's pain points through programing and analytics. In Summer 2021, I worked at Millennium Manangement as a Software Engineer Intern and I'm currenly looking for 2022 Software Engineer full-time opportunities. In my free time, I enjoy city hikes, kickboxing, watching movies, and exploring indie bands. 
 
 ## Projects
 ### Software Development
