@@ -2,9 +2,12 @@
 Hi, I'm Jiaying Chen. I'm an undergrad student studying Applied Math and Computer Science at College of William & Mary. I'm passionate about data science and I do data analysis and modeling primarily in Python and R. Besides data science, I enjoy photography, cooking, city hikes and watching standup comedies. 
 
 ## Projects
+### Software Development
+* [CSCI301: Android Maze Game](https://github.com/JiayingChen0307/mazebyjiayingchenandjunzhaosun/tree/master/app/src/main/java/edu/wm/cs/cs301/JunzhaoSun)
+* [CSCI423: Music Player Database](https://github.com/JiayingChen0307/csci421-term-project) 
 
 ### Quantiative Analysis
-* [Evaluating the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/README.md)
+* [Using Machine Learning to evaluate the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/README.md)
 
 ### Modeling
 * [Predicting Road Roughness with CNN Using Satellite Images](https://github.com/JiayingChen0307/roadRunner-CNN)
@@ -12,7 +15,6 @@ Hi, I'm Jiaying Chen. I'm an undergrad student studying Applied Math and Compute
 
 ### Data Visualization
 * [Amazon Delivery Network](https://jiayingchen0307.github.io/last_mile_delivery_network/)
-* [Jiaying's Tableau Gallery](https://public.tableau.com/profile/jiaying.chen#!/)
 
 ### Applied Math Research
 * [Quantifying Voting Islands with Topological Data Analysis(TDA)](https://github.com/JiayingChen0307/tda/blob/master/report_JiayingChen.pdf)
