@@ -6,11 +6,9 @@ Hi, I'm Jiaying Chen. I go by Tina most of the time. I'm an undergrad student st
 * [CSCI301: Android Maze Game](https://github.com/JiayingChen0307/mazebyjiayingchenandjunzhaosun/tree/master/app/src/main/java/edu/wm/cs/cs301/JunzhaoSun)
 * [CSCI423: Music Player Database](https://github.com/JiayingChen0307/csci421-term-project) 
 
-### Quantiative Analysis
-* [Using Machine Learning to evaluate the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/README.md)
-
 ### Modeling
-* [Predicting Road Roughness with CNN Using Satellite Images](https://github.com/JiayingChen0307/roadRunner-CNN)
+* [Using Machine Learning to evaluate the impacts of GEF projects on children's health conditions in Kenya](https://github.com/JiayingChen0307/gef/blob/master/README.md)
+* [Predicting Road Roughness with Convolutional Neural Network (CNN) Using Satellite Images](https://github.com/JiayingChen0307/roadRunner-CNN/blob/master/VBM_keras_update_network.py)
 * [Predicting Online Sales with Users' First impression](https://github.com/JiayingChen0307/ICM2020-Amazon-review-prediction/blob/master/RandomForest.ipynb)
 
 ### Data Visualization
